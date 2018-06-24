@@ -13,9 +13,9 @@ form{
 .user{
 	background: #7999ad;
     text-align: center;
-    width: 150px;
+    width: 200px;
     display: inline-block;
-    margin: 10px;
+    margin: 10px 20px;
     padding: 10px;
 }
 
