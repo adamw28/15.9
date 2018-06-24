@@ -91,7 +91,7 @@ var UsersList = function (_React$Component2) {
     value: function render() {
       return React.createElement(
         "div",
-        null,
+        { className: "usersList" },
         this.users
       );
     }

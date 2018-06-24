@@ -45,7 +45,7 @@ class UsersList extends React.Component {
 
   render() {
     return (
-      <div>
+      <div className="usersList">
         {this.users}
       </div>
     );
